@@ -47,7 +47,7 @@ function Hero() {
         {/* Left: Text Content */}
         <div className="w-full md:w-1/2 text-center md:text-left mt-10 md:mt-0">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-4">
-            สวัสดี, ผมชื่อ <span className="text-indigo-600">ชญานนท์ ฤทธิ์เกื้อ</span>
+            สวัสดี, ผม <span className="text-indigo-600">ชญานนท์ ฤทธิ์เกื้อ</span>
           </h1>
           <div className="relative inline-block mb-6 h-[1.5em]">
             <h2
