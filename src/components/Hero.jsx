@@ -47,7 +47,7 @@ function Hero() {
         {/* Left: Text Content */}
         <div className="w-full md:w-1/2 text-center md:text-left mt-10 md:mt-0">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-4">
-            Hi, I'm <span className="text-indigo-600">Chayanon Ritkuea</span>
+            สวัสดี, ผมชื่อ <span className="text-indigo-600">ชญานนท์ ฤทธิ์เกื้อ</span>
           </h1>
           <div className="relative inline-block mb-6 h-[1.5em]">
             <h2
@@ -63,10 +63,7 @@ function Hero() {
           </div>
 
           <p className="text-lg md:text-xl text-white mb-8 max-w-xl mx-auto md:mx-0">
-            As a passionate software developer, I specialize in creating
-            visually appealing and user-friendly web applications. I am
-            committed to continuous learning and staying up-to-date with new
-            technologies.
+            ในฐานะนักพัฒนาซอฟต์แวร์ที่มีความหลงใหลในงาน ผมเชี่ยวชาญในการสร้างเว็บแอปพลิเคชันที่สวยงามและใช้งานง่าย พร้อมมุ่งมั่นในการเรียนรู้อย่างต่อเนื่องและติดตามเทคโนโลยีใหม่ ๆ อยู่เสมอ
           </p>
           <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-4">
             <button
